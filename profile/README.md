@@ -5,6 +5,8 @@
 	title="Linkedin Digifarmz" width="20%" height="auto" />
 </a>
 
+<hr />
+
 <p>
 💡 Somos uma startup disruptiva por essência, carregamos conosco a busca constante por inovação.
 
