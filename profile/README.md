@@ -5,7 +5,7 @@
 	title="Linkedin Digifarmz" width="20%" height="auto" />
 </a>
 
-<aside>
+<p>
 💡 Somos uma startup disruptiva por essência, carregamos conosco a busca constante por inovação.
 
 **Pensamos grande e miramos alto!**
@@ -13,8 +13,7 @@
 Nosso legado nos mantém com valores muito claros. Por isso, temos e buscamos pessoas alinhadas a ele 🚀💛
 
 **Comunicação - Intensidade - Atitude Colaborativa - Otimismo - Empatia - Foco no Resultado**
-
-</aside>
+</p>
 <!--
 
 **Here are some ideas to get you started:**
